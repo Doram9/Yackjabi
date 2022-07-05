@@ -1,0 +1,24 @@
+
+k	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª ôÊùÿÿÿÿ
+k	java:S117N"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÁ‰Œÿÿÿÿÿ
+k	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇ‚Äüÿÿÿÿ
+7
+java:S1643B"Use a StringBuilder instead.(¦í°—øÿÿÿÿ
+7
+java:S1643s"Use a StringBuilder instead.(¦í°—øÿÿÿÿ
+V	java:S125:"<This block of commented-out lines of code should be removed.( ™ë„øÿÿÿÿ
+M
+java:S1874G"2Remove this use of "JsonParser"; it is deprecated.(ªµ’ÿùÿÿÿÿ
+H
+java:S1874H"-Remove this use of "parse"; it is deprecated.(ô„õ±ùÿÿÿÿ
+M
+java:S1135V"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+Q	java:S125v"<This block of commented-out lines of code should be removed.(ßÓ˜‡
+N
+java:S1874…"2Remove this use of "JsonParser"; it is deprecated.(ªµ’ÿùÿÿÿÿ
+I
+java:S1874†"-Remove this use of "parse"; it is deprecated.(ô„õ±ùÿÿÿÿ
+R	java:S125‰"<This block of commented-out lines of code should be removed.(ñ‘õñ
+W	java:S125"<This block of commented-out lines of code should be removed.(§ç…êýÿÿÿÿ
+N
+java:S1135“"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ

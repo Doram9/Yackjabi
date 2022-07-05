@@ -1,0 +1,32 @@
+
+i
+java:S1192w"SDefine a constant instead of duplicating this literal "redirect: index.do" 5 times.(·¿ñ
+c
+java:S1192£"GDefine a constant instead of duplicating this literal "title" 10 times.(°É©¯ıÿÿÿÿ
+]
+java:S1192B"HDefine a constant instead of duplicating this literal "userid" 24 times.(‚¡÷Q
+l
+java:S1192C"QDefine a constant instead of duplicating this literal "/MoCal/loginPage" 5 times.(—ºÏıüÿÿÿÿ
+b
+java:S1192û"FDefine a constant instead of duplicating this literal "start" 5 times.(Îæƒµûÿÿÿÿ
+d
+java:S1192U"IDefine a constant instead of duplicating this literal "roomcode" 6 times.(Ù’×¨ûÿÿÿÿ
+_
+java:S1192O"IDefine a constant instead of duplicating this literal "username" 3 times.(Ãª°í
+x
+java:S1319ê"bThe type of "param" should be an interface such as "Map" rather than the implementation "HashMap".(ú¤é!
+y
+java:S1319ø"bThe type of "param" should be an interface such as "Map" rather than the implementation "HashMap".(äù×Ú
+y
+java:S1319Œ"bThe type of "param" should be an interface such as "Map" rather than the implementation "HashMap".(Š­ß›
+f	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ•ôä
+k	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï“ÕÁûÿÿÿÿ
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïª´÷üÿÿÿÿ
+S
+java:S4973ú"<Strings and Boxed types should be compared using "equals()".(üøš
+a
+java:S4488è"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ï³ëÀ
+`
+java:S4488ö"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(æ°–i
+f
+java:S4488Š"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ì¯ˆ‡üÿÿÿÿ
